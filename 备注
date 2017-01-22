@@ -1,0 +1,9 @@
+网址分为3种，
+
+第一种是起始网址
+   http://scc.whut.edu.cn/vjlist.aspx?type=zhaopinginfo&vj
+第二种是包含招聘信息的网址
+   http://scc.whut.edu.cn/vjread.aspx?id=83cfde68-6e24-4308-92fa-258184ce07ec&vj
+第三种是跳转向其他网页的网址
+   http://scc.whut.edu.cn/vjlist.aspx?type=zhaopinginfo&=vj&page=2
+
